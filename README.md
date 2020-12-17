@@ -13,7 +13,7 @@ Specify e, l, or r for one iteration of total time H=1 of Euler's, Leapfrog, or 
 ex: $python main.py e
 
 
-Specify e i, l i, or r i for iterations by of desired method
+Specify e i, l i, or r i for iterations of desired method
 
 ex: $python main.py e i
 
