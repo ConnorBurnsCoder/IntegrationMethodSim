@@ -10,7 +10,7 @@ x(1) = cos(1) = .5403...
 
 For the full simulation and integration method comparison report please read "IntegrationReport.pdf"
 
-#Simulation usage
+# Simulation usage
 
 Specify e, l, or r for one iteration of total time H=1 of Euler's, Leapfrog, or Runge-Kutta 4.
 
